@@ -1,2 +1,0 @@
-# Classwork
-Classwork checkpoints
